@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo chown -h vincet:staff _hello
+
